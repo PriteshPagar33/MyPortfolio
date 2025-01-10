@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description:
     "As a consummate Full Stack Developer, I specialize in architecting sophisticated solutions to intricate computational challenges. With an unwavering commitment to analytical precision and technical acumen, I continuously refine my expertise to engineer systems of unparalleled efficacy.",
-  github: "https://github.com/pranav-programmer45",
+  github: "https://github.com/PranavBhoite/",
   resume:
     "https://drive.google.com/file/d/1Iroba9OKaRaTOt3szer_YF8G7zR7qp1r/view",
   linkedin: "https://www.linkedin.com/in/pranav-bhoite-5356a6268/",
@@ -312,7 +312,7 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "Smartsketch🧑🏻‍💻",
+    title: "Smartsketch",
     date: "Feb 2024 - Nov 2024",
     description:
       "SmartSketch: An AI-driven platform that lets law enforcement create and match facial sketches with databases quickly and accurately, using machine learning, deep learning, and secure cloud technology.",
@@ -327,7 +327,7 @@ export const projects = [
       "React Flow",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
+    github: "https://github.com/PranavBhoite/SmartSketch",
     webapp: "https://decisionhub.netlify.app/",
   },
   {
@@ -352,7 +352,7 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/PranavBhoite/Digital-India-E-Health-Card",
     webapp: "https://trackify-management.netlify.app/",
   },
 
@@ -373,7 +373,7 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/PranavBhoite/careerhub-platform",
     webapp: "https://vexa-app.netlify.app/",
   },
   {
@@ -386,7 +386,7 @@ export const projects = [
       "https://uicookies.com/wp-content/uploads/2018/10/pro-garden-agriculture-website-template.jpg",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "https://github.com/PranavBhoite/AgroNexus",
     webapp: "https://brain-tumor.netlify.app/",
     
   },
@@ -400,7 +400,7 @@ export const projects = [
       "https://i.ytimg.com/vi/ZYXpvp8PwEA/maxresdefault.jpg",
     tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
+    github: "https://github.com/PranavBhoite/DrowsiTrack",
     webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
   {
@@ -413,7 +413,7 @@ export const projects = [
       "https://static.anychart.com/images/gallery/v8/network-graph-knowledge-graph-darkturquoise.png",
     tags: ["React Native", "JavaScript", "Axios"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
+    github: "https://github.com/PranavBhoite/C-Graph-Library",
     webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
   // {
