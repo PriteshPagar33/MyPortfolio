@@ -10,7 +10,7 @@ export const Bio = {
     "As a consummate Full Stack Developer, I specialize in architecting sophisticated solutions to intricate computational challenges. With an unwavering commitment to analytical precision and technical acumen, I continuously refine my expertise to engineer systems of unparalleled efficacy.",
   github: "https://github.com/PriteshPagar33/",
   resume:
-    "https://drive.google.com/file/d/1Iroba9OKaRaTOt3szer_YF8G7zR7qp1r/view",
+    "https://drive.google.com/file/d/1aXuUO5Vh0uC-ER8qLODTn1AzIQDtWI_O/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/pritesh-pagar-6157582ab//",
   
   insta: "https://www.instagram.com/priteshpagar_0709/",
@@ -336,7 +336,7 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/PranavBhoite/Digital-India-E-Health-Cardhttps://github.com/PriteshPagar33/Stone-Crusher-Website",
+    github: "https://github.com/PriteshPagar33/Stone-Crusher-Website.git",
     webapp: "https://stone-crusher-website.vercel.app/",
   },
 
@@ -397,7 +397,7 @@ export const projects = [
       "https://static.anychart.com/images/gallery/v8/network-graph-knowledge-graph-darkturquoise.png",
     tags: ["React Native", "JavaScript", "Axios"],
     category: "data structures",
-    github: "https://github.com/PranavBhoite/C-Graph-Library",
+    github: "https://github.com/PriteshPagar33/Graph-Algorithm-Library.git",
     webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
   // {
