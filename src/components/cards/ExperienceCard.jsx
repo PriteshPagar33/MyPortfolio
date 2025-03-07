@@ -120,7 +120,13 @@ const ExperienceCard = ({ experience }) => {
         </Body>
       </Top>
       <Description>
-        {experience?.desc && <Span>{experience.desc}</Span>}
+      {experience?.desc && Array.isArray(experience.desc) && (
+    <ul  style={{ listStyleType: "none", paddingLeft: "0"}}>
+      {experience.desc.map((point, index) => (
+        <li key={index}>{point}</li>
+      ))}
+    </ul>
+  )}
         {experience?.skills && (
           <>
             <br />

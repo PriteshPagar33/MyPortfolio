@@ -81,12 +81,13 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Pranav Bhoite</Logo>
+        <Logo>Pritesh Pagar</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
           <NavLink href="#Contact">Contact</NavLink>
           <NavLink href="#Projects">Projects</NavLink>
+          <NavLink href="#Experience">Experience</NavLink>
           <NavLink href="#Education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>

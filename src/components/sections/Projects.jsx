@@ -124,6 +124,13 @@ const Projects = () => {
             active={toggle === "android app"}
             onClick={() => setToggle("android app")}
           >
+            Android APP
+            </ToggleButton>
+          <Divider />
+          <ToggleButton
+            active={toggle === "data structures"}
+            onClick={() => setToggle("data structures")}
+          >
             Data Structure
           </ToggleButton>
           <Divider />

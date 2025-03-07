@@ -134,7 +134,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/"><div style={{color: "hsla(271, 100%, 50%, 1)"}}>Pranav.</div></NavLogo>
+        <NavLogo to="/"><div style={{color: "hsla(271, 100%, 50%, 1)"}}>Pritesh.</div></NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
@@ -143,7 +143,7 @@ const Navbar = () => {
         <NavItems>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
-          
+          <NavLink href="#Experience">Experience</NavLink>
           <NavLink href="#Projects">Projects</NavLink>
           <NavLink href="#Education">Education</NavLink>
           <NavLink href="#Contact">Contact</NavLink>

@@ -125,10 +125,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_w7vqy2q",
-        "template_yb6ctjd",
+        "service_9h03ari",
+        "template_i38zulf",
         form.current,
-        "rs_DFL8jFamGr9o9N"
+        "ue45eDFDFRNyXBnVD"
       )
       .then(
         (result) => {
