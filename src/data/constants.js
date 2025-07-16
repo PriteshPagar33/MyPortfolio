@@ -10,7 +10,7 @@ export const Bio = {
     "As a consummate Full Stack Developer, I specialize in architecting sophisticated solutions to intricate computational challenges. With an unwavering commitment to analytical precision and technical acumen, I continuously refine my expertise to engineer systems of unparalleled efficacy.",
   github: "https://github.com/PriteshPagar33/",
   resume:
-    "https://drive.google.com/file/d/1LbtXk6pc25iNQQl--_j30W8s-1vfdIMe/view?usp=sharing",
+    "https://drive.google.com/file/d/1L9FhnCLrKnDudRN8949PvcbwN-sqrhC-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/pritesh-pagar-6157582ab//",
   
   insta: "https://www.instagram.com/priteshpagar_0709/",
